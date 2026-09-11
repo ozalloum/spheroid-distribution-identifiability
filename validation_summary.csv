@@ -1,0 +1,12 @@
+check,value
+baseline_node_count,60.0
+check_node_count,60.0
+angular_sample_count,181.0
+dense_integration_point_count,4763.0
+LN_grid_candidate_count,9999.0
+MPL_grid_candidate_count,11817.0
+max_abs_orientation_delta_E_joint,1.1131616461934613e-12
+max_abs_orientation_cext_relative_delta,1.942890293094024e-14
+max_abs_orientation_g_delta,1.177356823145459e-13
+max_orientation_phase_rms_log_delta,8.232436118264325e-12
+max_orientation_DoLP_rms_delta,6.082837752352471e-12

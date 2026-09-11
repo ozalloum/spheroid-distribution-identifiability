@@ -1,0 +1,12 @@
+Verified runtime
+================
+
+Python: 3.12.14
+Operating system: Linux 6.18.35 x86_64 GNU/Linux
+NumPy: 2.3.5
+pandas: 2.2.3
+SciPy: 1.17.0
+Matplotlib: 3.10.8
+
+The numerical scripts are CPU-only. No GPU, compiler, or original T-matrix
+solver is required to reproduce the ensemble post-processing and figures.

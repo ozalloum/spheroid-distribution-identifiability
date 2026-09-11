@@ -1,0 +1,52 @@
+{
+  "x": 0.02,
+  "lambda_um": 0.412,
+  "eps": 0.6666667,
+  "mrr": 1.07,
+  "mri": 0.0,
+  "ndgs": 2,
+  "ddelt": 0.001,
+  "npna": 181,
+  "rat": 1.0,
+  "ndistr": 4,
+  "npnax": 1,
+  "nkmax": -1,
+  "r_um": 0.0013114367310772175,
+  "r1_um": 0.0013114365999335445,
+  "r2_um": 0.0013114368622208906,
+  "cext": 4.894637277427533e-15,
+  "csca": 4.894637277427535e-15,
+  "ssa": 1.0000000000000002,
+  "asymmetry_g": 7.072795112180359e-05,
+  "f11_safety_threshold": 1.5002197727281455e-12,
+  "pmax_abs_dolp": 0.9998829414052217,
+  "theta_pmax_deg": 90.0,
+  "max_abs_dolp": 0.9998829414052217,
+  "endpoint_max_abs_F12_F34": 0.0,
+  "pipeline_version": "tmatrix_monodisperse_db_v1",
+  "run_id": "6734f09d5a21971e",
+  "status": "ok",
+  "runtime_s": 0.028430799997295253,
+  "start_utc": "2026-08-31T01:29:54.428909+00:00",
+  "end_utc": "2026-08-31T01:29:54.457371+00:00",
+  "solver_exe": "C:\\Users\\ozall\\Desktop\\spheroids\\TMatrix_Spheroid_Secure_GDrive_Workflow\\build_monodisperse_windows\\tmq_monodisperse.exe",
+  "solver_sha256": "76d1956fca61cab7f21840b33b88b64ed282240ce8898c5bba9d2bbf20484553",
+  "solver_record_source": "test",
+  "returncode": 0,
+  "hard_failures": [],
+  "warnings": [],
+  "solver_warnings_raw": [
+    "ssa_greater_than_one"
+  ],
+  "accepted_notes": [
+    {
+      "type": "ssa_roundoff_excess",
+      "ssa_excess": 2.220446049250313e-16,
+      "tolerance": 2.220446049250313e-14,
+      "raw_solver_warning": "ssa_greater_than_one"
+    }
+  ],
+  "angular_csv": "C:\\Users\\ozall\\Desktop\\spheroids\\TMatrix_Spheroid_Secure_GDrive_Workflow\\monodisperse_database\\adaptive_seed_hardcase\\runs\\mono_6734f09d5a21971e_x0.02_eps0.666667_lam0.412_mr1.07_mi0\\angular.csv",
+  "raw_solver_output": "C:\\Users\\ozall\\Desktop\\spheroids\\TMatrix_Spheroid_Secure_GDrive_Workflow\\monodisperse_database\\adaptive_seed_hardcase\\runs\\mono_6734f09d5a21971e_x0.02_eps0.666667_lam0.412_mr1.07_mi0\\raw_solver_output.txt",
+  "expansion_coefficients": "C:\\Users\\ozall\\Desktop\\spheroids\\TMatrix_Spheroid_Secure_GDrive_Workflow\\monodisperse_database\\adaptive_seed_hardcase\\runs\\mono_6734f09d5a21971e_x0.02_eps0.666667_lam0.412_mr1.07_mi0\\expansion_coefficients.txt"
+}

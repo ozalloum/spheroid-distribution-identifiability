@@ -1,0 +1,21 @@
+truth_family,truth_alpha,truth_xg,truth_sigma_g,criterion,retrieval_family,grid_candidates,retrieval_on_boundary,E_scalar,E_joint,joint_search_scope
+MPL,3.0,,,joint,LN,9999,False,0.036471786415907564,0.15829697125569694,complete frozen grid
+MPL,3.0,,,scalar,LN,9999,False,0.0015855243592980313,0.16090084369143004,complete frozen grid
+MPL,3.3,,,joint,LN,9999,False,0.0028717394314066477,0.13364244299595684,complete frozen grid
+MPL,3.3,,,scalar,LN,9999,False,0.0020224187687606573,0.16866088532945248,complete frozen grid
+MPL,3.6,,,joint,LN,9999,False,0.003899057942886506,0.12811225757380432,complete frozen grid
+MPL,3.6,,,scalar,LN,9999,False,0.003899057942886506,0.12811225757380432,complete frozen grid
+MPL,3.9,,,joint,LN,9999,False,0.012145851781125675,0.14946682443305462,complete frozen grid
+MPL,3.9,,,scalar,LN,9999,False,0.00449586850753094,0.29667274107505154,complete frozen grid
+MPL,4.2,,,joint,LN,9999,False,0.05092854837075457,0.19133740335136137,complete frozen grid
+MPL,4.2,,,scalar,LN,9999,False,0.002571257200613362,0.20704321928725694,complete frozen grid
+LN,,0.15,1.5,joint,MPL,11817,True,0.007196237413463865,0.012072433567842489,complete frozen grid
+LN,,0.15,1.5,scalar,MPL,11817,False,0.006926200938279928,0.01340176872352888,complete frozen grid
+LN,,0.25,1.8,joint,MPL,11817,False,0.029243543268201746,0.13881576455133274,complete frozen grid
+LN,,0.25,1.8,scalar,MPL,11817,False,0.029243543268201746,0.13881576455133274,complete frozen grid
+LN,,0.4,2.1,joint,MPL,11817,False,0.02054431536352367,0.23582448770602407,complete frozen grid
+LN,,0.4,2.1,scalar,MPL,11817,False,0.02054431536352367,0.23582448770602407,complete frozen grid
+LN,,0.65,2.4,joint,MPL,11817,False,0.025864131514519346,0.17668800834295356,complete frozen grid
+LN,,0.65,2.4,scalar,MPL,11817,False,0.014978689507928028,0.24545332712691248,complete frozen grid
+LN,,1.0,2.7,joint,MPL,11817,False,0.04024884924006629,0.22961814115451745,complete frozen grid
+LN,,1.0,2.7,scalar,MPL,11817,False,0.0020180428723280356,0.292830167604954,complete frozen grid
